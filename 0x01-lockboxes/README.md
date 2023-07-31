@@ -1,3 +1,3 @@
-# 0x010x01-lockboxes
+# 0x01-lockboxes
 
 Lockboxes readme
