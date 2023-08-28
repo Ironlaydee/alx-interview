@@ -98,7 +98,7 @@ def solveNQUtil(board, col, number):
 
 
 def solve(number):
-    """ Find all the posibilities if exists
+    """ Find all the posibilities if they exists
     Args:
         number - size of the board
     """
